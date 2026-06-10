@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/Hunyuan3D-2-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation"
+  authors:
+    - family-names: Zhao
+      given-names: Zibo
+    - family-names: Lai
+      given-names: Zeqiang
+    - family-names: Lin
+      given-names: Qingxiang
+    - family-names: Zhao
+      given-names: Yunfei
+    - family-names: Liu
+      given-names: Haolin
+    - family-names: Yang
+      given-names: Shuhui
+    - family-names: Feng
+      given-names: Yifei
+    - family-names: Yang
+      given-names: Mingxin
+    - family-names: Zhang
+      given-names: Sheng
+    - family-names: Yang
+      given-names: Xianghui
+    - family-names: Shi
+      given-names: Huiwen
+    - family-names: Liu
+      given-names: Sicong
+    - family-names: Wu
+      given-names: Junta
+    - family-names: Lian
+      given-names: Yihang
+    - family-names: Yang
+      given-names: Fan
+    - family-names: Tang
+      given-names: Ruining
+    - family-names: He
+      given-names: Zebin
+    - family-names: Wang
+      given-names: Xinzhou
+    - family-names: Liu
+      given-names: Jian
+    - family-names: Zuo
+      given-names: Xuhui
+    - name: Additional original paper authors
+  journal: "arXiv preprint arXiv:2501.12202"
+  year: 2025
+  url: "https://arxiv.org/abs/2501.12202"

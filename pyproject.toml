@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hunyuan3d-2-unofficial"
+version = "0.1.0"
+description = "Unofficial PyTorch reproduction for Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Minghao Liu" }]
+dependencies = [
+  "torch>=2.1",
+  "torchvision>=0.16",
+  "pyyaml>=6.0",
+  "tqdm>=4.66",
+  "numpy>=1.24"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
